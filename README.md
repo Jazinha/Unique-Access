@@ -28,4 +28,4 @@ THEN the password is either displayed in an alert or written to the page
 ## Screenshots 
 ![image](https://github.com/Jazinha/Unique-Access/assets/117381175/c022abc2-59c0-4adc-8a56-513dba608f7a)
 
-##Deployment Link
+## Deployment Link
